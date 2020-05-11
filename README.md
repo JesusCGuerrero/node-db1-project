@@ -8,7 +8,7 @@
 
 ## Assignment
 
-For this lab you will:
+<!-- For this lab you will:
 
 - write SQL statements against a pre-populated database using an online tool. Once you have the correct SQL Statement for each query, write it inside the `queries.sql` file under the appropriate heading.
 - write API endpoints to manage the `accounts` resource, including database logic
@@ -24,7 +24,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/trysql.asp
 - add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _"Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
 - update _Bilbo Baggins_ record so that the postal code changes to _"11122"_.
 
-**Clicking the `Restore Database` button in the page will repopulate the database with the original data and discard all changes you have made**.
+**Clicking the `Restore Database` button in the page will repopulate the database with the original data and discard all changes you have made**. -->
 
 ### Write Accounts API
 
@@ -41,7 +41,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/trysql.asp
 
 ## Stretch Problems
 
-The following exercises **require research**, the concepts needed to complete them have not been covered in class yet.
+The following exercises **require research**, the concepts need to complete them have not been covered in class yet.
 
 - Run more queries.
 
